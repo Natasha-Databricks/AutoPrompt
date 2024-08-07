@@ -4,4 +4,5 @@ __pycache__/
 /wandb
 .idea/
 dump/
-
+config/llm_env_secrets.yml
+.DS_Store
